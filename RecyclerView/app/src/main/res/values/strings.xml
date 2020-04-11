@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="Photo">Icono Estudiante</string>
+    <string name="textName">Nombre</string>
+    <string name="textGender">Genero</string>
+    <string name="textDateBith">Fecha Nacimiento</string>
+</resources>
